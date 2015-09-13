@@ -1,0 +1,19 @@
+{
+  "name": "escape",
+  "version": "0.2.0",
+  "description": "game for js13k 2015 contest. escape from flip city.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gamealchemist / Vincent Piel",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jsbeautifier": "^1.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.4.0",
+    "gulp-zip": "^3.0.2"
+  }
+}
