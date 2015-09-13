@@ -15,6 +15,8 @@ Works in Chrome, Firefox, Safari.
 Playable on your favorite touch device.
 WebAudio sound effects.
 
+You can play it here : http://gamealchemist.co.nf/escape/
+
 -----------------------------
 
 Idea William & Clarence.
@@ -25,5 +27,7 @@ Many thanks to Loic.
 Sounds made with SfxrSynth (modified for webaudio), thanks to Thomas Vian (as version) 
 and Markus Neubrand (js port).
 
+(unfortunately i forgot to build, the zip i sent is not 100% up to date,
+the one on github is the right one ).
 
 
